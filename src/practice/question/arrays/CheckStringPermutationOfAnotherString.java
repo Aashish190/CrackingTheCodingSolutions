@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -59,8 +59,8 @@ public class CheckStringPermutationOfAnotherString {
         String input = "aashish";
         String check = "aasiss";
         CheckStringPermutationOfAnotherString csp = new CheckStringPermutationOfAnotherString();
-        csp.checkPermutation(input,check);
-        csp.checkPermutation("qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm","qwertyuiopqwertyuiopasdfghjcvbnmcvbnmcvbnm");
+        checkPermutation(input,check);
+        checkPermutation("qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm","qwertyuiopqwertyuiopasdfghjcvbnmcvbnmcvbnm");
 
     }
 }

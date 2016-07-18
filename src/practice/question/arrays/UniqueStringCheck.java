@@ -1,6 +1,4 @@
-package practice.question.chapter1;
-
-import com.sun.org.apache.xpath.internal.operations.Equals;
+package practice.question.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -57,17 +55,17 @@ public class UniqueStringCheck {
         String input3 ="qwertyuiopasdfghjklzxcvbnm";
         String input4 ="qwertyuiopasdfghjklzxcvbnmm";
         UniqueStringCheck usc= new UniqueStringCheck();
-        usc.noDataStructure(input1);
-        usc.noDataStructure(input2);
-        usc.noDataStructure(input3);
-        usc.noDataStructure(input4);
+        noDataStructure(input1);
+        noDataStructure(input2);
+        noDataStructure(input3);
+        noDataStructure(input4);
 
         System.out.println("############################");
 
-        usc.withDataStructure(input1);
-        usc.withDataStructure(input2);
-        usc.withDataStructure(input3);
-        usc.withDataStructure(input4);
+        withDataStructure(input1);
+        withDataStructure(input2);
+        withDataStructure(input3);
+        withDataStructure(input4);
 
     }
 }

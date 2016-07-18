@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 /**
  * Created by aashish on 7/16/16.
@@ -37,6 +37,6 @@ public class MatrixNullElement {
     public static void main(String[] args) {
         int[][] a = {{1,2,0,},{5,6,8},{0,5,7},{2,3,8}};
         MatrixNullElement mne = new MatrixNullElement();
-        mne.checkZeroEntry(a);
+        checkZeroEntry(a);
     }
 }

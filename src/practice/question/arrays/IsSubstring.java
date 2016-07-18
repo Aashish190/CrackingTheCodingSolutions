@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 /**
  * Created by aashish on 7/16/16.
@@ -11,9 +11,9 @@ public class IsSubstring {
             }else {
                 System.out.println("Not a substring");
             }
-            if(flag){
-                System.out.println("It is a match :"+flag);
-            }
+        if(flag){
+            System.out.println("It is a match :"+flag);
+        }
     }
     public static void main(String[] args) {
         String s1 = "shayak";
@@ -21,6 +21,6 @@ public class IsSubstring {
         // test case: repeating string aakaakaakaakaakaakaakaak  vs kaakaakaakaakaakaakaakaakaa
         // test case: repeating pattern
         IsSubstring is= new IsSubstring();
-        is.checkForString(s1,s2);
+        checkForString(s1,s2);
     }
 }

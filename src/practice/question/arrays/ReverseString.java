@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 /**
  * Created by aashish on 7/13/16.
@@ -14,7 +14,7 @@ public class ReverseString {
     public static void main(String[] args) {
         ReverseString rs= new ReverseString();
         String a= "hello reverse me";
-        String reverseString= rs.reverseString(a);
+        String reverseString= reverseString(a);
         System.out.println(reverseString);
     }
 }

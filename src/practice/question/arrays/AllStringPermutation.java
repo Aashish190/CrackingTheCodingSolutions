@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 import java.util.Scanner;
 
@@ -46,7 +46,7 @@ public class RotatingImagePixel {
         }System.out.println("           \n         ");
 
         RotatingImagePixel rip =new RotatingImagePixel();
-        rip.rotatePixel(input,rows,cols);
+        rotatePixel(input,rows,cols);
 
     }
 }

@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 /**
  * Created by aashish on 7/7/16.
@@ -15,7 +15,7 @@ public class RotatedSortedNumber {
         RotatedSortedNumber rsn= new RotatedSortedNumber();
         int[] input= {5,6,7,8,9,10,1,2,3,4};
         last = input.length -1;
-        position =(int)(last/2) ;
+        position = last/2;
         mid = input[position];
         if(input.length == 1){
             System.out.println(input[0]);
@@ -30,7 +30,7 @@ public class RotatedSortedNumber {
                 findMid(input);
             } else if (mid < input[last]){
                 last= position;
-                position =(int)(last/2) ;
+                position = last/2;
                 mid = input[position];
                 findMid(input);
             }else{

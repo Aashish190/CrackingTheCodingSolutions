@@ -1,4 +1,4 @@
-package practice.question.chapter1;
+package practice.question.arrays;
 
 /**
  * Created by aashish on 7/16/16.
@@ -19,6 +19,6 @@ public class ReplaceSpaceWithCharacters {
     public static void main(String[] args) {
         String input = " i am here in the space zone";
         ReplaceSpaceWithCharacters rswc= new ReplaceSpaceWithCharacters();
-        rswc.replaceSpace(input);
+        replaceSpace(input);
     }
 }

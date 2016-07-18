@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77491f0d-355c-4c72-8312-d437b809a603" name="Default" comment="" />
+    <list default="true" id="77491f0d-355c-4c72-8312-d437b809a603" name="Default" comment="chapter 1 : complete&#10;Chapter 2 : partial">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/DeleteEntryLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/RemoveDuplicateLinkedListElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/RemoveKthToLastElement.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/AllStringPermutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/CheckStringPermutationOfAnotherString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/MatrixNullElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/ReplaceSpaceWithCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/ReverseString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/RotatedSortedNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/UniqueStringCheck.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/WordCountRepeatStirng.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/consolePrint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/CrackingTheCodingSolutions/practice/question/chapter1/formInput.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/AllStringPermutation.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/AllStringPermutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/CheckStringPermutationOfAnotherString.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/CheckStringPermutationOfAnotherString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/IsSubstring.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/IsSubstring.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/MatrixNullElement.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/MatrixNullElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/ReplaceSpaceWithCharacters.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/ReplaceSpaceWithCharacters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/ReverseString.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/ReverseString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/RotatedSortedNumber.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/RotatedSortedNumber.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/RotatingImagePixel.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/RotatingImagePixel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/UniqueStringCheck.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/UniqueStringCheck.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/WordCountRepeatStirng.java" afterPath="$PROJECT_DIR$/src/practice/question/arrays/WordCountRepeatStirng.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/consolePrint.html" afterPath="$PROJECT_DIR$/src/practice/question/arrays/consolePrint.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/practice/question/chapter1/formInput.html" afterPath="$PROJECT_DIR$/src/practice/question/arrays/formInput.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="CrackingTheCodingSolutions.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,11 +53,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WordCountRepeatStirng.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/WordCountRepeatStirng.java">
+      <file leaf-file-name="DeleteEntryLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/DeleteEntryLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6086956">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,22 +75,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatrixNullElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/MatrixNullElement.java">
+      <file leaf-file-name="LinkedListImplementation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RotatingImagePixel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/RotatingImagePixel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13345195">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
+              <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+              <folding>
+                <element signature="method#appendToTail#0;class#LinkedListImplementation#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,6 +96,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AashishMahajan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -85,6 +125,17 @@
         <option value="$PROJECT_DIR$/src/practice/question/chapter1/ReplaceSpaceWithCharacters.java" />
         <option value="$PROJECT_DIR$/src/practice/question/chapter1/WordCountRepeatStirng.java" />
         <option value="$PROJECT_DIR$/src/practice/question/chapter1/MatrixNullElement.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/chapter1/RotatingImagePixel.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/chapter1/IsSubstring.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/arrays/IsSubstring.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/arrays/CheckStringPermutationOfAnotherString.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListImplementation.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/RemoveDuplicateUnSortedLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListl.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/RemoveDuplicateLinkedListElement.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/RemoveKthToLastElement.java" />
+        <option value="$PROJECT_DIR$/src/practice/question/linkedlist/DeleteEntryLinkedList.java" />
       </list>
     </option>
   </component>
@@ -104,14 +155,14 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -164,7 +215,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
+              <option name="myItemId" value="question" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linkedlist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrackingTheCodingSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrackingTheCodingSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="question" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,15 +255,15 @@
     <property name="SearchEverywhereHistoryKey" value="psvm&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/lib/tools.jar!/com/sun/jdi/PathSearchingVirtualMachine.class" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MatrixNullElement">
-    <configuration default="false" name="UniqueStringCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DeleteEntryLinkedList">
+    <configuration default="false" name="RemoveDuplicateUnSortedLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="practice.question.chapter1.*" />
+          <option name="PATTERN" value="practice.question.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="practice.question.chapter1.UniqueStringCheck" />
+      <option name="MAIN_CLASS_NAME" value="practice.question.linkedlist.RemoveDuplicateUnSortedLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -203,14 +276,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CheckStringPermutationOfAnotherString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LinkedListl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="practice.question.chapter1.*" />
+          <option name="PATTERN" value="practice.question.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="practice.question.chapter1.CheckStringPermutationOfAnotherString" />
+      <option name="MAIN_CLASS_NAME" value="practice.question.linkedlist.LinkedListl" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -223,14 +296,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ReplaceSpaceWithCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RemoveDuplicateLinkedListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="practice.question.chapter1.*" />
+          <option name="PATTERN" value="practice.question.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="practice.question.chapter1.ReplaceSpaceWithCharacters" />
+      <option name="MAIN_CLASS_NAME" value="practice.question.linkedlist.RemoveDuplicateLinkedListElement" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -243,14 +316,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="WordCountRepeatStirng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RemoveKthToLastElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="practice.question.chapter1.*" />
+          <option name="PATTERN" value="practice.question.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="practice.question.chapter1.WordCountRepeatStirng" />
+      <option name="MAIN_CLASS_NAME" value="practice.question.linkedlist.RemoveKthToLastElement" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -263,14 +336,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MatrixNullElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DeleteEntryLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="practice.question.chapter1.*" />
+          <option name="PATTERN" value="practice.question.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="practice.question.chapter1.MatrixNullElement" />
+      <option name="MAIN_CLASS_NAME" value="practice.question.linkedlist.DeleteEntryLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -751,19 +824,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.UniqueStringCheck" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CheckStringPermutationOfAnotherString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ReplaceSpaceWithCharacters" />
-      <item index="3" class="java.lang.String" itemvalue="Application.WordCountRepeatStirng" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MatrixNullElement" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicateUnSortedLinkedList" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LinkedListl" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RemoveDuplicateLinkedListElement" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RemoveKthToLastElement" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DeleteEntryLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MatrixNullElement" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WordCountRepeatStirng" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ReplaceSpaceWithCharacters" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CheckStringPermutationOfAnotherString" />
-        <item index="4" class="java.lang.String" itemvalue="Application.UniqueStringCheck" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DeleteEntryLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RemoveKthToLastElement" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LinkedListl" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RemoveDuplicateLinkedListElement" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicateUnSortedLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -784,38 +857,45 @@
       <updated>1467946036043</updated>
       <workItem from="1467946040006" duration="15379000" />
       <workItem from="1468429410852" duration="122000" />
-      <workItem from="1468449331655" duration="10461000" />
+      <workItem from="1468449331655" duration="28495000" />
     </task>
+    <task id="LOCAL-00001" summary="chapter 1 : complete&#10;">
+      <created>1468734800843</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468734800844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25962000" />
+    <option name="totallyTimeSpent" value="43996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32614556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253012" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28915662" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28674698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38626608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22961374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44609165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50240964" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -864,28 +944,76 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="chapter 1 : complete&#10;" />
+    <MESSAGE value="chapter 1 : complete&#10;Chapter 2 : partial" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 1 : complete&#10;Chapter 2 : partial" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/question/chapter1/RotatedSortedNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/practice/question/arrays/RotatedSortedNumber.java</url>
           <line>25</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/question/chapter1/MatrixNullElement.java</url>
+          <url>file://$PROJECT_DIR$/src/practice/question/arrays/MatrixNullElement.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/arrays/RotatingImagePixel.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListImplementation.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListl.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListl.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/linkedlist/RemoveKthToLastElement.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/linkedlist/RemoveKthToLastElement.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/question/linkedlist/RemoveKthToLastElement.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/practice/question/chapter1/RotatedSortedNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/practice/question/arrays/RotatedSortedNumber.java</url>
           <line>24</line>
-          <properties class="practice.question.chapter1.RotatedSortedNumber" method="findMid" />
+          <properties class="practice.question.arrays.RotatedSortedNumber" method="findMid" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -894,7 +1022,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/RotatedSortedNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/RotatedSortedNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -902,7 +1030,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/RotatedSortedNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/RotatedSortedNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
@@ -910,7 +1038,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/AllStringPermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/AllStringPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -918,7 +1046,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/consolePrint.html">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/consolePrint.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12256268">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
@@ -926,7 +1054,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/formInput.html">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/formInput.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7910864">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
@@ -947,7 +1075,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/AllStringPermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/AllStringPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -955,17 +1083,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/UniqueStringCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/UniqueStringCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5871886">
           <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42704627">
           <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
@@ -973,7 +1101,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/RotatedSortedNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/RotatedSortedNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08007117">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
@@ -981,17 +1109,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/CheckStringPermutationOfAnotherString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33274022">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/ReplaceSpaceWithCharacters.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/ReplaceSpaceWithCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3469751">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
@@ -999,17 +1117,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/WordCountRepeatStirng.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/WordCountRepeatStirng.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/MatrixNullElement.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/MatrixNullElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
@@ -1017,10 +1135,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/question/chapter1/RotatingImagePixel.java">
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/RotatingImagePixel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13345195">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/CheckStringPermutationOfAnotherString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/arrays/IsSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/RemoveDuplicateLinkedListElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/RemoveKthToLastElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="class#Node#0;class#RemoveKthToLastElement#0" expanded="false" />
+            <element signature="method#print#0;class#RemoveKthToLastElement#0" expanded="false" />
+            <element signature="method#printElementThereafter#0;class#RemoveKthToLastElement#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/LinkedListImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="method#appendToTail#0;class#LinkedListImplementation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/question/linkedlist/DeleteEntryLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6086956">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
