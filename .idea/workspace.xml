@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77491f0d-355c-4c72-8312-d437b809a603" name="Default" comment="chapter 1 : complete&#10;Chapter 2 : partial">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/PartitionLinkedListAroundElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice/question/linkedlist/ReverseNumberAdditionReversePrint.java" />
+    <list default="true" id="77491f0d-355c-4c72-8312-d437b809a603" name="Default" comment="2.4 implemented, &#10;2.5 : in reverseOrder. Logic to be reversed for Forward">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CrackingTheCodingSolutions.iws" />
@@ -836,7 +834,7 @@
       <updated>1467946036043</updated>
       <workItem from="1467946040006" duration="15379000" />
       <workItem from="1468429410852" duration="122000" />
-      <workItem from="1468449331655" duration="37911000" />
+      <workItem from="1468449331655" duration="37959000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 1 : complete&#10;">
       <created>1468734800843</created>
@@ -856,11 +854,17 @@
       <option name="project" value="LOCAL" />
       <updated>1468899406706</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2.4 implemented, &#10;2.5 : in reverseOrder. Logic to be reversed for Forward">
+      <created>1468912187248</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1468912187248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53412000" />
+    <option name="totallyTimeSpent" value="53460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -940,7 +944,8 @@
     <MESSAGE value="chapter 1 : complete&#10;" />
     <MESSAGE value="chapter 1 : complete&#10;Chapter 2 : partial" />
     <MESSAGE value="DeleteEntryLinkedList : commited with final working. &#10;// removes the element occuring in the linkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="DeleteEntryLinkedList : commited with final working. &#10;// removes the element occuring in the linkedList" />
+    <MESSAGE value="2.4 implemented, &#10;2.5 : in reverseOrder. Logic to be reversed for Forward" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.4 implemented, &#10;2.5 : in reverseOrder. Logic to be reversed for Forward" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

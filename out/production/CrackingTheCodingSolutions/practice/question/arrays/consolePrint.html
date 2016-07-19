@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>console Print</title>
+<script>
+    function generateNow(){
+        var output ="";
+        for(var i=0 ; i<=100; i++){
+            if(i%2 == 0){
+
+            }else{
+                output +=i+" ";
+            }
+        }
+        console.log("odd numbers between 0-100 :"+output);
+        window.alert("please check console for odd numbers between 0 and 100");
+    }
+</script>
+<style type="text/css">
+    .main{
+        margin:auto;
+        width:100%;
+        height: 100%;
+        vertical-align: middle;
+        background-color:#eee;
+        text-align: center;
+        text-font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+</style>
+
+</head>
+
+<body class="main">
+    <label>please click here to generate the odd numbers between 0-100.</label><br>
+    <input class="button" type="submit" value="generateNow" name="generateNow" onclick="generateNow()">
+</body>
+</html>
