@@ -40,15 +40,27 @@ public class DeleteEntryLinkedList {
 
     static void deleteEntry( int i){
         DeleteEntryLinkedList de = new DeleteEntryLinkedList();
-        Node copyHead = null;
+        boolean flag = false;
+        Node ptr1= null;
+
         if(HEAD.data==i){
             printList(HEAD.next);
         }
-        while(HEAD.next != null){
-            if(HEAD.data ==i){
-                HEAD.next = HEAD.next.next;
+
+        ptr1 = HEAD;
+        while( ptr1!= null && ptr1.next != null){
+            if(ptr1.next.data == i){
+                flag = true;
+                Node ptr2 = ptr1.next;
+                ptr1.next = ptr2.next;
+            }else{
+                ptr1 = ptr1.next;
             }
-            HEAD = HEAD.next;
+        }if(flag){
+            printList(HEAD);
+        }else{
+            System.out.println("Element Not found in the LinkedList");
         }
+
     }
 }
